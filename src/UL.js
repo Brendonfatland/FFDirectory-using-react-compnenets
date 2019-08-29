@@ -1,8 +1,8 @@
-import React from "react.js";
+import React from "react";
 
 const UL = props => {
   return (
-    <ul class="list" id="sortable">
+    <ul className="list" id="sortable">
       {props.children}
     </ul>
   );
