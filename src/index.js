@@ -13,7 +13,7 @@ const App = () => {
         <LI className={"ui-state-default styleCol  Tech CDS"}>
           <IMG
             src={
-              "employeedir.wpengine.com/wp-content/uploads/2018/11/Jay-Wilhelmy-directory.jpg"
+              "http://employeedir.wpengine.com/wp-content/uploads/2018/11/Jay-Wilhelmy-directory.jpg"
             }
             width={280}
             height={280}
@@ -36,7 +36,7 @@ const App = () => {
         >
           <IMG
             src={
-              "employeedir.wpengine.com/wp-content/uploads/2018/11/Jay-Wilhelmy-directory.jpg"
+              "http://employeedir.wpengine.com/wp-content/uploads/2018/11/Jay-Wilhelmy-directory.jpg"
             }
             width={280}
             height={280}
